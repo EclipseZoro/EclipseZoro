@@ -43,8 +43,6 @@ An NLP-based spam classifier with 90%+ accuracy, deployed using Streamlit on Hug
 #### [Coal Mine Safety Detector](https://huggingface.co/spaces/EclipseZoro/Coal_Mine)
 An ML-based anomaly detection system for predictive mine safety monitoring.
 
-#### [Sudoku Solver & Generator](https://huggingface.co/spaces/EclipseZoro/Sudoku_Solver_Generator)
-Backtracking-based Sudoku solver and generator with Streamlit UI.
 
 ---
 
