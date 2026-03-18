@@ -4,14 +4,14 @@
 <h3 align="center">Full Stack & AI/ML Developer | Deep Learning | System Design | Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Upcoming+SDE+Intern+@+Mastercard;Building+Scalable+and+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Upcoming+SDE+Intern+@+Mastercard;Building+Scalable+and+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- Experienced **Full Stack Developer** & **AI/ML Research Intern** @ Outlier  
+- Experienced **Backend Developer Intern** @ Aforro  
 - **Upcoming SDE Intern at Mastercard Pune (Summer 2026)**  
 - Pursuing **B.E. in Computer Science** from Army Institute of Technology, Pune  
 - Passionate about **LLMs, AI Agents, and scalable backend systems**  
