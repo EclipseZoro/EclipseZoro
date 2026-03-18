@@ -53,9 +53,9 @@ An ML-based anomaly detection system for predictive mine safety monitoring.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EclipseZoro&theme=tokyonight" height="170px"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EclipseZoro&theme=react-dark&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
