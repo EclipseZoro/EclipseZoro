@@ -46,18 +46,6 @@ An ML-based anomaly detection system for predictive mine safety monitoring.
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=EclipseZoro&show_icons=true&theme=tokyonight" height="170px"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EclipseZoro&theme=tokyonight" height="170px"/>
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EclipseZoro&theme=react-dark&hide_border=true" />
-</p> -->
-
----
 
 ### ⚙️ Areas of Expertise
 
