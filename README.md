@@ -80,9 +80,9 @@ An ML-based anomaly detection system for predictive mine safety monitoring.
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EclipseZoro&style=flat-square&color=00BFFF" alt="Profile views"/>
-</p>
+</p> -->
 
 <!-- Animated Outro -->
 <p align="center">
